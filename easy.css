@@ -1,0 +1,132 @@
+body{
+   background: url("https://imagine-hub.com/wp-content/uploads/2024/01/Imagine-Hub-Website-V2-38-1024x683.jpg");
+ background-repeat: no-repeat;
+background-position: right;
+
+}
+header{
+    margin-inline-start: 60px;
+    margin-top: 10px;
+    font-size: 30px;
+  transition: .3s;
+  text-decoration: none;
+  color: #000000;
+}
+header:hover,
+header:active{
+  
+    color: rgb(219, 89, 89);
+}
+p{
+    cursor: pointer;
+    margin-top: 230px;
+    margin-left: 400px;
+    font-size: 50px;
+}
+
+
+#three{
+    margin-inline-start: 35px;
+    
+}
+
+#four{
+    margin-inline-start: 60px;
+}
+
+.navbar{
+height: 50px;
+margin-bottom: 20px;
+text-align: center;
+
+
+}
+
+.navbar a{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+text-decoration: none;
+font-weight: 500px;
+font-size: 20px;
+margin-left: 100px;
+transition: .3s;
+}
+.navbar a:hover,
+.navbar a.active{
+    color: #04bfd8;
+}
+
+
+h1{
+    margin-inline-start: 350px;
+    display: contents;
+}
+
+
+
+#five{
+    margin-inline-start: 250px;
+display: inline-flex;
+color: gold;
+
+}
+
+#six{
+    
+    display: inline-flex;
+    margin-inline-start: 3px;
+}
+
+#seven{
+    display: inline-flex;
+    margin-inline-start: 3px;
+    
+}
+
+#eight{
+    display: inline-flex;
+    margin-inline-start: 3px;
+}
+
+#nine{
+    display: inline-flex;
+    margin-inline-start: 3px;
+}
+
+
+h4{
+   margin-inline-start: 480px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+
+button{
+    cursor: pointer;
+    width: 101PX;
+    height: 35PX;
+    font-size: 15PX;
+    border-radius: 20PX;
+}
+button:hover{
+    color: black;
+    background-color: cadetblue;
+}
+
+small{
+    background-color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin-inline-start: 42px;
+}
+
+small:hover{
+    border-color: aliceblue;
+    background:rgb(255, 39, 39);
+    border-radius: 20px;
+    cursor: pointer;
+      
+}
+img{
+   display: inline-flex;
+}
